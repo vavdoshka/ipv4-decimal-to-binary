@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "IPv4 Test",
+  "name": "IPv4 Decimal to Binary Test",
   "icons": [
     {
       "src": "favicon.ico",
